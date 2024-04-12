@@ -1,0 +1,6 @@
+@BikeStoresReact.Server_HostAddress = http://localhost:5112
+
+GET {{BikeStoresReact.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

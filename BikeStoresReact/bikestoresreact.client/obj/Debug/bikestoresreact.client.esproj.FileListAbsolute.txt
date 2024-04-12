@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\Stanley_Internship\20240327_1first\BikeStoresReact\bikestoresreact.client\obj\Debug\bikestoresreact.client.esproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Stanley_Internship\20240327_1first_react\BikeStoresReact\bikestoresreact.client\obj\Debug\bikestoresreact.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,37 @@
+. {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    color: #f1356d;
+    margin-bottom: 30px;
+}
+
+label {
+    text-align: left;
+    display: block;
+}
+
+input, select {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+}
+
+button {
+    background: #f1356d;
+    color: #fff;
+    border: 0;
+    border-radius: 8px;
+    padding: 6px 10px;
+    cursor: pointer;
+    align-content: center;
+    display: block;
+    margin: auto;
+}

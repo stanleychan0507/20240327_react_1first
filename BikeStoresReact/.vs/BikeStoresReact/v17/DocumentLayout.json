@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\src\\components\\get.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\src\\components\\get.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36636DA8-0D09-4A88-A609-65FDEBC6D6EE}|BikeStoresReact.Server\\BikeStoresReact.Server.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36636DA8-0D09-4A88-A609-65FDEBC6D6EE}|BikeStoresReact.Server\\BikeStoresReact.Server.csproj|solutionrelative:bikestoresreact.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\src\\components\\menu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\src\\components\\menu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\src\\components\\report.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\src\\components\\report.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\src\\components\\get.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\src\\components\\get.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\.eslintrc.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\.eslintrc.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36636DA8-0D09-4A88-A609-65FDEBC6D6EE}|BikeStoresReact.Server\\BikeStoresReact.Server.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36636DA8-0D09-4A88-A609-65FDEBC6D6EE}|BikeStoresReact.Server\\BikeStoresReact.Server.csproj|solutionrelative:bikestoresreact.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\bikestoresreact\\bikestoresreact.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F8BF41F-55E5-454C-822C-4931F362432A}|bikestoresreact.client\\bikestoresreact.client.esproj|solutionrelative:bikestoresreact.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 248,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\BikeStoresReact.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BikeStoresReact.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\BikeStoresReact.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BikeStoresReact.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:02:12.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\vite.config.js",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\vite.config.js",
+              "RelativeToolTip": "bikestoresreact.client\\vite.config.js",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-08T09:27:55.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.jsx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\Components\\Menu.jsx",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\src\\Components\\Menu.jsx",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\Components\\Menu.jsx",
+              "RelativeToolTip": "bikestoresreact.client\\src\\Components\\Menu.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-04-08T07:13:03.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report.jsx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\Components\\Report.jsx",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\src\\Components\\Report.jsx",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\Components\\Report.jsx",
+              "RelativeToolTip": "bikestoresreact.client\\src\\Components\\Report.jsx",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-04-08T06:55:11.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\nuget.config",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\nuget.config",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\nuget.config",
+              "RelativeToolTip": "bikestoresreact.client\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-03T08:22:04.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\.gitignore",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\.gitignore",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\.gitignore",
+              "RelativeToolTip": "bikestoresreact.client\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-03T08:22:01.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\package.json",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\package.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\package.json",
+              "RelativeToolTip": "bikestoresreact.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T08:03:15.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Get.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\Components\\Get.css",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\src\\Components\\Get.css",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\Components\\Get.css",
+              "RelativeToolTip": "bikestoresreact.client\\src\\Components\\Get.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-02T04:14:32.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Get.jsx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\Components\\Get.jsx",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\src\\Components\\Get.jsx",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\Components\\Get.jsx",
+              "RelativeToolTip": "bikestoresreact.client\\src\\Components\\Get.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-04-02T04:01:12.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".eslintrc.cjs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\.eslintrc.cjs",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\.eslintrc.cjs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\.eslintrc.cjs",
+              "RelativeToolTip": "bikestoresreact.client\\.eslintrc.cjs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-02T03:22:13.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Navbar.jsx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\Components\\Navbar.jsx",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\src\\Components\\Navbar.jsx",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\Components\\Navbar.jsx",
+              "RelativeToolTip": "bikestoresreact.client\\src\\Components\\Navbar.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-04-02T03:17:50.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\main.jsx",
+              "RelativeToolTip": "bikestoresreact.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-04-02T03:10:26.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\BikeStoresReact.Server\\Program.cs",
+              "RelativeDocumentMoniker": "BikeStoresReact.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\BikeStoresReact.Server\\Program.cs",
+              "RelativeToolTip": "BikeStoresReact.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:10:19.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\index.html",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\index.html",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\index.html",
+              "RelativeToolTip": "bikestoresreact.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-02T03:09:49.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\index.css",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\index.css",
+              "RelativeToolTip": "bikestoresreact.client\\src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-02T03:09:45.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\package-lock.json",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\package-lock.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\package-lock.json",
+              "RelativeToolTip": "bikestoresreact.client\\package-lock.json",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T01:45:58.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\App.css",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\App.css",
+              "RelativeToolTip": "bikestoresreact.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-28T10:10:20.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "bikestoresreact.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\BikeStoresReact\\bikestoresreact.client\\src\\App.jsx",
+              "RelativeToolTip": "bikestoresreact.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-28T08:49:02.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

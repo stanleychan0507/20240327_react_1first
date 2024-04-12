@@ -1,0 +1,944 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFC2376-CA54-4549-90B2-3657F48491E0}|BikeStoresAPI\\BikeStoresAPI.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFC2376-CA54-4549-90B2-3657F48491E0}|BikeStoresAPI\\BikeStoresAPI.csproj|solutionrelative:bikestoresapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\SourceServer\\eed1b5a8902320029f9f1eacc29f389b1a0dd3f3355034cd772e7711e1e87015\\src\\libraries\\System.Private.CoreLib\\src\\System\\ArgumentNullException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresAPI\\BikeStoresAPI.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresAPI\\BikeStoresAPI.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\ReportDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\IReportDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\GenerateResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Properties\\obj\\Release\\net8.0\\BikeStoresMVC.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresMVC\\Properties\\obj\\Release\\net8.0\\BikeStoresMVC.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Shared\\_Layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresMVC\\Views\\Shared\\_Layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresMVC\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresMVC\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresMVC\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresMVC\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresMVC\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresMVC\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresMVC\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresMVC\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresMVC\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\BikeStoresMVC.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresMVC\\BikeStoresMVC.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BikeStoresMVC\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapplication\\service\\filterbydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|solutionrelative:bikestoresapplication\\service\\filterbydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapplication\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|solutionrelative:bikestoresapplication\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFC2376-CA54-4549-90B2-3657F48491E0}|BikeStoresAPI\\BikeStoresAPI.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BFC2376-CA54-4549-90B2-3657F48491E0}|BikeStoresAPI\\BikeStoresAPI.csproj|solutionrelative:bikestoresapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapplication\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|solutionrelative:bikestoresapplication\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFC2376-CA54-4549-90B2-3657F48491E0}|BikeStoresAPI\\BikeStoresAPI.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BFC2376-CA54-4549-90B2-3657F48491E0}|BikeStoresAPI\\BikeStoresAPI.csproj|solutionrelative:bikestoresapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFC2376-CA54-4549-90B2-3657F48491E0}|BikeStoresAPI\\BikeStoresAPI.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapi\\bikestoresapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6BFC2376-CA54-4549-90B2-3657F48491E0}|BikeStoresAPI\\BikeStoresAPI.csproj|solutionrelative:bikestoresapi\\bikestoresapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFC2376-CA54-4549-90B2-3657F48491E0}|BikeStoresAPI\\BikeStoresAPI.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapi\\controllers\\bikestorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFC2376-CA54-4549-90B2-3657F48491E0}|BikeStoresAPI\\BikeStoresAPI.csproj|solutionrelative:bikestoresapi\\controllers\\bikestorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapplication\\service\\generateresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|solutionrelative:bikestoresapplication\\service\\generateresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapplication\\service\\generatereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|solutionrelative:bikestoresapplication\\service\\generatereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapplication\\dto\\reportproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|solutionrelative:bikestoresapplication\\dto\\reportproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapplication\\dto\\reportcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|solutionrelative:bikestoresapplication\\dto\\reportcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapplication\\dto\\reportbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|solutionrelative:bikestoresapplication\\dto\\reportbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapplication\\dto\\ireportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|solutionrelative:bikestoresapplication\\dto\\ireportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapplication\\model\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|solutionrelative:bikestoresapplication\\model\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapplication\\bikestoresapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|solutionrelative:bikestoresapplication\\bikestoresapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\bikestoresapplication\\bikestoresapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AEE727EF-E37E-4D40-8399-CB45F3F8BECD}|BikeStoresApplication\\BikeStoresApplication.csproj|solutionrelative:bikestoresapplication\\bikestoresapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\method\\igenerateresultbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\method\\igenerateresultbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\method\\generatereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\method\\generatereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\dto\\reportproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\reportproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\dto\\reportcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\reportcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\dto\\reportbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\reportbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\dto\\ireportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\ireportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\method\\generateresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\method\\generateresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\model\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\model\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\model\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\controllers\\bikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\bikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\bikestores sample database - load data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\bikestores sample database - load data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\stanley_internship\\20240327_1first_react\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B4B3719-EAB4-4031-B07F-FBD3E0E3139D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 259,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FilterByDate.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Service\\FilterByDate.cs",
+              "RelativeDocumentMoniker": "BikeStoresApplication\\Service\\FilterByDate.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Service\\FilterByDate.cs",
+              "RelativeToolTip": "BikeStoresApplication\\Service\\FilterByDate.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T04:06:39.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "BikeStoresApplication\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Model\\Category.cs",
+              "RelativeToolTip": "BikeStoresApplication\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:47:57.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BikeStoresAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresAPI\\appsettings.json",
+              "RelativeToolTip": "BikeStoresAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T09:31:09.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Service\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BikeStoresApplication\\Service\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Service\\CustomerService.cs",
+              "RelativeToolTip": "BikeStoresApplication\\Service\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:29:25.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BikeStoresAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresAPI\\appsettings.Development.json",
+              "RelativeToolTip": "BikeStoresAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T01:46:36.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:46:44.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\Product.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:01:22.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BikeStoresAPI.http",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresAPI\\BikeStoresAPI.http",
+              "RelativeDocumentMoniker": "BikeStoresAPI\\BikeStoresAPI.http",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresAPI\\BikeStoresAPI.http",
+              "RelativeToolTip": "BikeStoresAPI\\BikeStoresAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-28T02:21:09.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BikeStoresAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresAPI\\Program.cs",
+              "RelativeToolTip": "BikeStoresAPI\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:25:04.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BikeStoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresAPI\\Controllers\\BikeStoresController.cs",
+              "RelativeDocumentMoniker": "BikeStoresAPI\\Controllers\\BikeStoresController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresAPI\\Controllers\\BikeStoresController.cs",
+              "RelativeToolTip": "BikeStoresAPI\\Controllers\\BikeStoresController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:25:46.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GenerateResult.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Service\\GenerateResult.cs",
+              "RelativeDocumentMoniker": "BikeStoresApplication\\Service\\GenerateResult.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Service\\GenerateResult.cs",
+              "RelativeToolTip": "BikeStoresApplication\\Service\\GenerateResult.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:20:32.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GenerateReport.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Service\\GenerateReport.cs",
+              "RelativeDocumentMoniker": "BikeStoresApplication\\Service\\GenerateReport.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Service\\GenerateReport.cs",
+              "RelativeToolTip": "BikeStoresApplication\\Service\\GenerateReport.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:20:10.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReportProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Dto\\ReportProductDTO.cs",
+              "RelativeDocumentMoniker": "BikeStoresApplication\\Dto\\ReportProductDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Dto\\ReportProductDTO.cs",
+              "RelativeToolTip": "BikeStoresApplication\\Dto\\ReportProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:16:12.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ReportCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Dto\\ReportCategoryDTO.cs",
+              "RelativeDocumentMoniker": "BikeStoresApplication\\Dto\\ReportCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Dto\\ReportCategoryDTO.cs",
+              "RelativeToolTip": "BikeStoresApplication\\Dto\\ReportCategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:16:06.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReportBrandDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Dto\\ReportBrandDTO.cs",
+              "RelativeDocumentMoniker": "BikeStoresApplication\\Dto\\ReportBrandDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Dto\\ReportBrandDTO.cs",
+              "RelativeToolTip": "BikeStoresApplication\\Dto\\ReportBrandDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:15:51.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Dto\\IReportDto.cs",
+              "RelativeDocumentMoniker": "BikeStoresApplication\\Dto\\IReportDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Dto\\IReportDto.cs",
+              "RelativeToolTip": "BikeStoresApplication\\Dto\\IReportDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:14:37.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BikeStoresContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Model\\BikeStoresContext.cs",
+              "RelativeDocumentMoniker": "BikeStoresApplication\\Model\\BikeStoresContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\Model\\BikeStoresContext.cs",
+              "RelativeToolTip": "BikeStoresApplication\\Model\\BikeStoresContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:10:35.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BikeStoresApplication",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\BikeStoresApplication.csproj",
+              "RelativeDocumentMoniker": "BikeStoresApplication\\BikeStoresApplication.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\BikeStoresApplication.csproj",
+              "RelativeToolTip": "BikeStoresApplication\\BikeStoresApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T10:04:49.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BikeStoresApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\BikeStoresApplication.csproj",
+              "RelativeDocumentMoniker": "BikeStoresApplication\\BikeStoresApplication.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresApplication\\BikeStoresApplication.csproj",
+              "RelativeToolTip": "BikeStoresApplication\\BikeStoresApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T10:03:30.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\Customer.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:41:19.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IGenerateResultBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Method\\IGenerateResultBuilder.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Method\\IGenerateResultBuilder.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Method\\IGenerateResultBuilder.cs",
+              "RelativeToolTip": "WebApplication1\\Method\\IGenerateResultBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:23:28.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GenerateReport.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Method\\GenerateReport.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Method\\GenerateReport.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Method\\GenerateReport.cs",
+              "RelativeToolTip": "WebApplication1\\Method\\GenerateReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:29:10.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ReportProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\DTO\\ReportProductDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\ReportProductDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\DTO\\ReportProductDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\ReportProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:41:18.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ReportCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\DTO\\ReportCategoryDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\ReportCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\DTO\\ReportCategoryDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\ReportCategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:43:19.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReportBrandDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\DTO\\ReportBrandDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\ReportBrandDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\DTO\\ReportBrandDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\ReportBrandDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:42:53.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\ReportDetail.cs",
+              "RelativeDocumentMoniker": "..\\..\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\ReportDetail.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\ReportDetail.cs",
+              "RelativeToolTip": "..\\..\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\ReportDetail.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:42:15.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReportDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\IReportDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\IReportDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\IReportDTO.cs",
+              "RelativeToolTip": "..\\..\\20240314_1first\\20240314_1first\\20240314_1first\\DTO\\IReportDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:26:16.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IReportDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\DTO\\IReportDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\IReportDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\DTO\\IReportDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\IReportDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:25:54.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GenerateResult.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Method\\GenerateResult.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Method\\GenerateResult.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Method\\GenerateResult.cs",
+              "RelativeToolTip": "WebApplication1\\Method\\GenerateResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:22:45.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenerateResult.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\GenerateResult.cs",
+              "RelativeDocumentMoniker": "..\\..\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\GenerateResult.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\GenerateResult.cs",
+              "RelativeToolTip": "..\\..\\20240314_1first\\20240314_1first\\20240314_1first\\Controllers\\GenerateResult.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:22:24.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\Stock.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Stock.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\Stock.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T05:54:00.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\Order.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T05:53:57.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\Category.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T05:53:48.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\Brand.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Brand.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\Brand.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:29:54.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\OrderItem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\OrderItem.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:51:41.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\Store.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Store.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\Store.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:50:46.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BikeStoresContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\BikeStoresContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\BikeStoresContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Model\\BikeStoresContext.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\BikeStoresContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:44:01.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BikeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Controllers\\BikeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BikeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\Controllers\\BikeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\BikeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:44:33.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "WebApplication1.http",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\WebApplication1.http",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\WebApplication1.http",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-27T03:40:18.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:40:16.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "BikeStores Sample Database - load data.sql",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\BikeStores Sample Database - load data.sql",
+              "RelativeDocumentMoniker": "WebApplication1\\BikeStores Sample Database - load data.sql",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\BikeStores Sample Database - load data.sql",
+              "RelativeToolTip": "WebApplication1\\BikeStores Sample Database - load data.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-27T03:40:06.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T02:40:05.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BikeStoresMVC.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Properties\\obj\\Release\\net8.0\\BikeStoresMVC.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BikeStoresMVC\\Properties\\obj\\Release\\net8.0\\BikeStoresMVC.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Properties\\obj\\Release\\net8.0\\BikeStoresMVC.AssemblyInfo.cs",
+              "RelativeToolTip": "BikeStoresMVC\\Properties\\obj\\Release\\net8.0\\BikeStoresMVC.AssemblyInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAEwBIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:20:51.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BikeStoresMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BikeStoresMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T03:05:18.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "BikeStoresMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "BikeStoresMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-28T03:05:17.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BikeStoresMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BikeStoresMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T03:05:08.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Program.cs",
+              "RelativeDocumentMoniker": "BikeStoresMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Program.cs",
+              "RelativeToolTip": "BikeStoresMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:58:24.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BikeStoresMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BikeStoresMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T02:43:59.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BikeStoresMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BikeStoresMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T02:43:30.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BikeStoresMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BikeStoresMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T02:43:42.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "BikeStoresMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\appsettings.json",
+              "RelativeToolTip": "BikeStoresMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T02:43:38.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BikeStoresMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BikeStoresMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T02:43:37.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BikeStoresMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BikeStoresMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T02:43:35.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BikeStoresMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BikeStoresMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:42:38.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BikeStoresMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\BikeStoresMVC.csproj",
+              "RelativeDocumentMoniker": "BikeStoresMVC\\BikeStoresMVC.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\BikeStoresMVC.csproj",
+              "RelativeToolTip": "BikeStoresMVC\\BikeStoresMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T10:02:24.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BikeStoresMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BikeStoresMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:03:26.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArgumentNullException.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\SourceServer\\eed1b5a8902320029f9f1eacc29f389b1a0dd3f3355034cd772e7711e1e87015\\src\\libraries\\System.Private.CoreLib\\src\\System\\ArgumentNullException.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\eed1b5a8902320029f9f1eacc29f389b1a0dd3f3355034cd772e7711e1e87015\\src\\libraries\\System.Private.CoreLib\\src\\System\\ArgumentNullException.cs",
+              "ToolTip": "C:\\Users\\Administrator\\AppData\\Local\\SourceServer\\eed1b5a8902320029f9f1eacc29f389b1a0dd3f3355034cd772e7711e1e87015\\src\\libraries\\System.Private.CoreLib\\src\\System\\ArgumentNullException.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\eed1b5a8902320029f9f1eacc29f389b1a0dd3f3355034cd772e7711e1e87015\\src\\libraries\\System.Private.CoreLib\\src\\System\\ArgumentNullException.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAFAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:05:34.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BikeStoresAPI.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresAPI\\BikeStoresAPI.csproj.user",
+              "RelativeDocumentMoniker": "BikeStoresAPI\\BikeStoresAPI.csproj.user",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Stanley_Internship\\20240327_1first_react\\WebApplication1\\BikeStoresAPI\\BikeStoresAPI.csproj.user",
+              "RelativeToolTip": "BikeStoresAPI\\BikeStoresAPI.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-03-28T02:25:41.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
